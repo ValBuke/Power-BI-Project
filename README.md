@@ -27,6 +27,16 @@ Women are underrepresented.
 ### Age Group Analysis
 Young employees (between 30 to 39) are underrepresented in executive roles.
 
+
+### Discussion
+
+Several potential root causes for slow progress in achieving gender balance at the executive management level might include:
+1.Persistent biases in hiring and promotion processes can favor male candidates or perpetuate stereotypes that undermine female advancement.
+2.Systematic differences in promotion rates and compensation between genders can perpetuate underrepresentation of women at the executive level.
+3.Insufficient leadership development and training programs tailored for women can limit their readiness and qualification for executive positions.
+4. Women might have less access to influential networks and mentorship opportunities compared to their male counterparts, affecting their career advancement.
+
+
 # Recommendations
 1.Ensure fairness in the performance evaluation processes. Implement measures to ensure that performance evaluations are fair and unbiased, including regular reviews of rating patterns across genders.
 2.Implement targeted recruitment strategies to increase the number of women in the talent pipeline for executive roles.
